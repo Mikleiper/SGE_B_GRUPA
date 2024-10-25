@@ -1,2 +1,10 @@
+# SGE_B_GRUPA
+Activitat 1 - The bear
 
-hoal q tal3
+Integrants del grup:
+
+A: Kushal Lamichhane
+B: Omar Mehenni
+C: Juan Carlos Sanchez
+D: Miguel Muñoz Baena
+
