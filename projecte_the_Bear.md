@@ -101,7 +101,3 @@ Podemos personalizar (3) que cliente que és (p ej: para aplicar descuentos), es
 ![modulo pventas](<pventas6.jpg>)
 
 ### Modulo de planificación
-
-
-
-[def]: <1- ventas.jpg>
