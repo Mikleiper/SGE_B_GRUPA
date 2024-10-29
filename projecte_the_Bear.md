@@ -29,7 +29,7 @@ El módulo **Ventes** permite gestionar todas las ventas del restaurante, incluy
 ### 3. Ejemplo de Uso
 
 1. **Acceder al Módulo de Ventas**: Desde el menú principal, selecciona el módulo **Ventes**.
-![modulo ventas](<1- ventas.jpg>)
+![modulo ventas](<1- ventas-1.jpg>)
 Después de hacer clic en el módulo Ventas, encontrarás un botón **"Nuevo"**. Haz clic en él para crear un nuevo registro.
 ![Captura de Pantalla: Crear Pedido]
 (![Captura de Pantalla: Crear Pedido]
@@ -56,3 +56,6 @@ Después, haz clic en "Confirmar" para finalizar.
 
 ### Modulo de planificación
 
+
+
+[def]: <1- ventas.jpg>
