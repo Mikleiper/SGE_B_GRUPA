@@ -17,7 +17,9 @@ Miguel Muñoz Baena | Puntos de venta y Planificación
 ### Modulo de eventos
 
 ### Modulo de ventas
-
+### 1. Descripción del Módulo
+El módulo **Ventes** permite gestionar todas las ventas del restaurante, incluyendo la creación y emisión de facturas a los clientes.
+ ![Captura de Pantalla: Crear Pedido](C:\Users\iticbcn\Desktop/1- ventas-1,jpg)
 ### Modulo de calendario-citas
 
 ### Modulo de compras
