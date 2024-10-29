@@ -83,6 +83,23 @@ Después de hacer clic en el módulo punto de venta, encontrarás un botón **"A
 
 ![modulo pventas](<pventas2.jpg>)
 
+En la nueva ventana tendremos que poner (1) con cuanto dinero en efectivo empezamos en caja, apretando en (2) podemos especificar que tipo y cuanta cantidad de billetes y monedas disponemos. Empezamos la (3) sesión apretando al boton "Abrir caja registradora".
+
+![modulo pventas](<pventas3.jpg>)
+
+Si nos ponemos en la piel d eun camarero, en la tablet que lleve puedo ver el mapa del salón y selecioanr la mesa en la que me hacen un pedido, por ejemplo en la mesa 5. Tras esto se abre otra ventana en la que puedo tomar el pedido apuntar que bebida y/o comida me piden.
+Cuando apreto una comida, por ejemplo la hamburguesa de queso me puede salir otra ventana en la que personalizar el pedido, añadiendo el tipo de acompañamiento. Añadimos también una bebida.
+
+![modulo pventas](<pventas4.jpg>)
+
+Ahora en la parte izquierda saldrá el pedido y cuanto suma. Podemos realizar diversas acciones (1) como añadir un comentario que haga el cliente, aplicar un sobrecoste (p ej si está en terraza) transferir la cuenta a otra mesa (p ej: el cliente se cambia de mesa), calcular el coste entre varais personas o emitir una factura. También podemos (2) variar la cantidad que solicitan.
+
+![modulo pventas](<pventas5.jpg>)
+
+Podemos personalizar (3) que cliente que és (p ej: para aplicar descuentos), especificar (4) una nota para cocina (p ej para que tarden en servir el plato o que no pongan determinados ingredientes), realizar el pedido (5) a cocina, o que paguen (6) y especificar el modo de pago.
+
+![modulo pventas](<pventas6.jpg>)
+
 ### Modulo de planificación
 
 
