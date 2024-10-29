@@ -49,8 +49,7 @@ Después, haz clic en "Confirmar" para finalizar.
 ### Modulo de calendario-citas
 
 ### Modulo de compras
-uffdojpjpaow jposjg
-## sdmj
+
 ### Modulo de costes
 
 ### Modulo de puntos de venta
