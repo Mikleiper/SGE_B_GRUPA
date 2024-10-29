@@ -23,7 +23,8 @@ El módulo **Ventes** permite gestionar todas las ventas del restaurante, incluy
 ### Modulo de calendario-citas
 
 ### Modulo de compras
-
+uffdojpjpaow jposjg
+## sdmj
 ### Modulo de costes
 
 ### Modulo de puntos de venta
