@@ -45,28 +45,6 @@ Después, haz clic en "Confirmar" para finalizar.
 4. **Emitir Factura**: En el pedido de venta confirmado, selecciona "Crear Factura" para generar una factura para el cliente.
 
 
-# Pasos para Completar una Venta en Odoo
-
-## 1. Acceder al Módulo de Ventas
-Dirígete al panel principal de Odoo y selecciona el módulo de **Ventas**.
-
-## 2. Crear un Nuevo Cliente
-En la sección **Clientes** del módulo de Ventas, haz clic en el botón "Crear" para añadir un nuevo cliente.
-
-## 3. Rellenar la Ficha del Cliente
-Completa la información necesaria del cliente, como el nombre, dirección y demás datos relevantes.
-
-## 4. Crear un Nuevo Presupuesto (o Pedido de Venta)
-En la sección **Pedidos**, haz clic en "Crear" para iniciar un nuevo presupuesto. Selecciona el cliente y agrega los productos o servicios que se desean vender.
-
-## 5. Confirmar el Presupuesto para Convertirlo en Pedido de Venta
-Revisa el presupuesto creado y haz clic en "Confirmar" para convertirlo en un pedido de venta.
-
-## 6. Generar una Factura
-En el pedido de venta confirmado, selecciona "Crear Factura" para generar una factura para el cliente.
-
-## 7. Registrar el Pago de la Factura *(si es necesario)*
-Abre la factura generada, selecciona "Registrar Pago" y completa los detalles del pago. Esto marcará la factura como pagada y finalizará el proceso de venta.
 
 ### Modulo de calendario-citas
 
