@@ -71,7 +71,7 @@ El módulo **Punto de venta**  está diseñado para para cubrir las necesidades 
 - **Impresiones automáticas en cocina y barra**: El sistema permite configurar impresiones automáticas de pedidos para diferentes zonas (cocina, barra, etc.), de modo que cada área recibe solo los pedidos que le corresponden.
 - **Gestión de promociones y descuentos**: Es posible configurar descuentos especiales, menús del día, promociones 2x1, o cualquier otra oferta temporal de manera sencilla en el sistema. También se pueden aplicar automáticamente según el día, la hora, o según las configuraciones específicas de cada restaurante.
 - **Control de inventario de ingredientes**: Cada plato puede estar vinculado con los ingredientes necesarios en el **módulo de Inventario** de Odoo. Esto permite una disminución automática del inventario conforme se realizan los pedidos, asegurando el control de existencias. Ayuda a evitar el desabastecimiento y facilita la planificación de compras, especialmente en días de alta demanda.
-- ** Informes y análisis en tiempo real**: Permite generar informes sobre los platos más vendidos, horas pico, facturación por mesero, y muchos otros datos importantes para el restaurante. Estos análisis permiten ajustar los menús, mejorar el servicio y tomar decisiones basadas en datos sobre la operación del restaurante.
+- **Informes y análisis en tiempo real**: Permite generar informes sobre los platos más vendidos, horas pico, facturación por mesero, y muchos otros datos importantes para el restaurante. Estos análisis permiten ajustar los menús, mejorar el servicio y tomar decisiones basadas en datos sobre la operación del restaurante.
 
 ### 3. Ejemplo de Uso
 
