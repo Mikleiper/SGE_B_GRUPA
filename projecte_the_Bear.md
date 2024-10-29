@@ -48,10 +48,6 @@ Después, haz clic en "Confirmar" para finalizar.
 
 ![Crear factura](<5-pedido confirmado.jpg>)
 
-
-
-
-
 ### Modulo de calendario-citas
 
 ### Modulo de compras
@@ -61,7 +57,7 @@ Después, haz clic en "Confirmar" para finalizar.
 ### Modulo de puntos de venta
 
 #### 1. Descripción del modulo
-El módulo **Punto de venta**  está diseñado para para cubrir las necesidades específicas de un restaurante, ofreciendo una solución integral para mejorar el servicio al cliente, optimizar el flujo de trabajo y tener un control completo de la operación del restaurante. Además, podemos conectar una gran variedad de dispositivos (p ej: bascula, datafono, impresora térmica, etc.) a un PC o tablet que esté conectado a Odoo. No hace falta que esté conectado constantemente a internet.
+El módulo **Punto de venta**  está diseñado para para cubrir las necesidades específicas de un restaurante, ofreciendo una solución integral para mejorar el servicio al cliente, optimizar el flujo de trabajo y tener un control completo de la operación del restaurante. Además, podemos conectar una gran variedad de dispositivos (p ej: bascula, datafono, impresora térmica, etc.) a un PC o tablet que esté conectado a Odoo, también se pude personlizar y configurar para necesidades especificas. No hace falta que esté conectado constantemente a internet.
 
 ### 2. Funcionalidades Principales
 - **Gestión de mesas y planos del salón**: Permite crear un plano visual del salón del restaurante, configurando la disposición de las mesas. Esto facilita ver qué mesas están ocupadas, libres o en espera, optimizando el flujo de servicio. De este modo, el personal puede asignar pedidos a cada mesa y hacer seguimiento en tiempo real del estado de cada pedido.
