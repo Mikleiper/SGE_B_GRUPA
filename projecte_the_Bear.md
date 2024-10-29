@@ -79,7 +79,7 @@ El módulo **Punto de venta**  está diseñado para para cubrir las necesidades 
 
 ![modulo pventas](<pventas1.jpg>)
 
-Después de hacer clic en el módulo Ventas, encontrarás un botón **"Abrir caja registradora"**. Haz clic en él para empezar una nueva jornada de tabajo.
+Después de hacer clic en el módulo punto de venta, encontrarás un botón **"Abrir caja registradora"**. Haz click en este para empezar una nueva jornada de tabajo.
 
 ![modulo pventas](<pventas2.jpg>)
 
