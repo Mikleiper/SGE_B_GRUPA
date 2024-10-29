@@ -28,21 +28,27 @@ El módulo **Ventes** permite gestionar todas las ventas del restaurante, incluy
 
 ### 3. Ejemplo de Uso
 
-1. **Acceder al Módulo de Ventas**: Desde el menú principal, selecciona el módulo **Ventes**.
+1. **Acceder al Módulo de Ventas**: Desde el menú principal, selecciona el módulo **Ventas**.
+
 ![modulo ventas](<1- ventas-1.jpg>)
+
 Después de hacer clic en el módulo Ventas, encontrarás un botón **"Nuevo"**. Haz clic en él para crear un nuevo registro.
-![Captura de Pantalla: Crear Pedido]
-(![Captura de Pantalla: Crear Pedido]
-(![button nuevo](<2- pagina principale de ventas.jpg>)))
+
+(![button nuevo](<2- pagina principale de ventas.jpg>))
 2. **Crear un Cliente**: Navega a la sección de **Clientes**, rellena la información del cliente indicada en rojo para crear un nuevo cliente. 
 3. **Generar Pedido**: En la sección de Pedidos, agrega la información del pedido aquí, indicada en verde.
+
 ![Cliente y pedido](<3 -pagina de crear el cliente y el pedido.jpg>)
- un ejemplo 
-![Ejemplo](<4- crear el cliente y el pedido.jpg>)
 Después, haz clic en "Confirmar" para finalizar.
-![Crear factura](<5-pedido confirmado.jpg>)
+ un ejemplo 
+
+![Ejemplo](<4- crear el cliente y el pedido.jpg>)
 
 4. **Emitir Factura**: En el pedido de venta confirmado, selecciona "Crear Factura" para generar una factura para el cliente.
+
+![Crear factura](<5-pedido confirmado.jpg>)
+
+
 
 
 
