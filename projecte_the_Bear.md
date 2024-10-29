@@ -60,6 +60,29 @@ Después, haz clic en "Confirmar" para finalizar.
 
 ### Modulo de puntos de venta
 
+#### 1. Descripción del modulo
+El módulo **Punto de venta**  está diseñado para para cubrir las necesidades específicas de un restaurante, ofreciendo una solución integral para mejorar el servicio al cliente, optimizar el flujo de trabajo y tener un control completo de la operación del restaurante. Además podemos conectar una gran varierdad de dispositivos (p ej: bascula, datafono, impresora termica, etc.) a un PC o tablet que esté conectado a Odoo. No hace falta que este conectado constantemente a internet.
+
+### 2. Funcionalidades Principales
+- **Gestión de mesas y planos del salón**: Permite crear un plano visual del salón del restaurante, configurando la disposición de las mesas. Esto facilita ver qué mesas están ocupadas, libres o en espera, optimizando el flujo de servicio. De este modo, el personal puede asignar pedidos a cada mesa y hacer seguimiento en tiempo real del estado de cada pedido.
+-**Toma de pedidos directa en mesa**: Los camareros pueden tomar pedidos directamente en la mesa usando dispositivos como tablets o smarphones, evitando errores y reduciendo el tiempo de espera. Los pedidos se envían automáticamente a la cocina en tiempo real, lo cual agiliza la preparación y evita desplazamientos innecesarios.
+- **Gestión de pedidos**: Se pueden agregar o modificar ítems mientras los clientes aún están en la mesa. Admite personalizar los platos según las solicitudes de los clientes (como agregar o quitar ingredientes), y estas instrucciones se envían directamente a la cocina para evitar confusiones.
+- **División de cuentas y pagos múltiples**: Facilita dividir la cuenta en caso de que los clientes quieran pagar por separado o dividir la cuenta por plato, por persona, o por cualquier combinación. Es compatible con varios métodos de pago, permitiendo aceptar efectivo, tarjetas, o una combinación de ambos en una misma cuenta.
+- **Impresiones automáticas en cocina y barra**: El sistema permite configurar impresiones automáticas de pedidos para diferentes zonas (cocina, barra, etc.), de modo que cada área recibe solo los pedidos que le corresponden.
+- **Gestión de promociones y descuentos**: Es posible configurar descuentos especiales, menús del día, promociones 2x1, o cualquier otra oferta temporal de manera sencilla en el sistema. También se pueden aplicar automáticamente según el día, la hora, o según las configuraciones específicas de cada restaurante.
+- **Control de inventario de ingredientes**: Cada plato puede estar vinculado con los ingredientes necesarios en el **módulo de Inventario** de Odoo. Esto permite una disminución automática del inventario conforme se realizan los pedidos, asegurando el control de existencias. Ayuda a evitar el desabastecimiento y facilita la planificación de compras, especialmente en días de alta demanda.
+- ** Informes y análisis en tiempo real**: Permite generar informes sobre los platos más vendidos, horas pico, facturación por mesero, y muchos otros datos importantes para el restaurante. Estos análisis permiten ajustar los menús, mejorar el servicio y tomar decisiones basadas en datos sobre la operación del restaurante.
+
+### 3. Ejemplo de Uso
+
+1. **Acceder al Módulo de punto de venta**: Desde el menú principal, selecciona el módulo **punto de venta**.
+
+![modulo pventas](<pventas1.jpg>)
+
+Después de hacer clic en el módulo Ventas, encontrarás un botón **"Abrir caja registradora"**. Haz clic en él para empezar una nueva jornada de tabajo.
+
+![modulo pventas](<pventas2.jpg>)
+
 ### Modulo de planificación
 
 
