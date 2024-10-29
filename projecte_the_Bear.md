@@ -71,7 +71,8 @@ Abre la factura generada, selecciona "Registrar Pago" y completa los detalles de
 ### Modulo de calendario-citas
 
 ### Modulo de compras
-
+uffdojpjpaow jposjg
+## sdmj
 ### Modulo de costes
 
 ### Modulo de puntos de venta
