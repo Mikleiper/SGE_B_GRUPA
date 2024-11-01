@@ -69,9 +69,7 @@ también podremos ver la solicitud de presupuesto, los pedidos de compra o inclu
 ### 3. Ejemplo de Uso
 
  Primero ve al módulo **Compras** y haz clic en instalar; también instala las actualizaciones.
-
  ![módulo Compras](<Compras0.png>)
- 
  **Esta es la pantalla principal en la cual podrás crear solicitudes de presupuesto, pedidos de compra y añadir proveedores.**  
    
  Primero crearemos los proveedores. Para ello, pulsaremos en **Pedidos** y **Proveedores**. 
