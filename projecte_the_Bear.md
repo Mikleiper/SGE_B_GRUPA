@@ -78,12 +78,12 @@ también podremos ver la solicitud de presupuesto, los pedidos de compra o inclu
 
 En la pantalla de proveedores podrás visualizar aquellos proveedores que tienes dados de alta.
 
-[módulo Compras](<Compras2.PNG>)
+![módulo Compras](<Compras2.png>)
  
 Una vez pulsado el botón **Crear**, te llevará a la siguiente ventana en la cual solo deberás rellenar los datos de tu proveedor y, al finalizar, pulsar en  
 **Guardar** o en **Descartar** si al final no deseas guardar sus datos.  
 **(Todas las opciones que permiten crear también permiten descartar dichos cambios por si al final no deseamos crear o guardar).**
-![módulo Compras](<Compras3.PNG>)
+![módulo Compras](<Compras3.png>)
 
 Para crear una solicitud de presupuesto, volveremos a la página principal y, esta vez, en vez de pulsar en proveedores, pulsaremos en **Solicitudes de**  
 **presupuesto** y en **Crear**. Nos saldrá una ventana como esta, la cual deberemos rellenar con los datos para crear dicho presupuesto.
