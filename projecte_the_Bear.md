@@ -45,7 +45,7 @@ El módulo **Ventas** de Odoo permite gestionar todas las actividades relacionad
    
    ![agregar productos](<agregar pedidos 4.jpg>)
    
-   - **Fecha de entrega** y **Condiciones de pago**: Completa estos campos para definir los términos de la venta.
+   - **Fecha de entrega** y **Condiciones de pago** : Completa estos campos para definir los términos de la venta.
     
 ![la fecha y condicion de pago](<4 - la fecha y condicion de pago -1.jpg>)
 
