@@ -77,7 +77,6 @@ también podremos ver la solicitud de presupuesto, los pedidos de compra o inclu
  Primero crearemos los proveedores. Para ello, pulsaremos en **Pedidos** y **Proveedores**. 
 
  ![módulo Compras](<Compras1.png>)
- 
  En la pantalla de proveedores podrás visualizar aquellos proveedores que tienes dados de alta.
 
  ![módulo Compras](<Compras2.png>)
@@ -87,60 +86,48 @@ Una vez pulsado el botón **Crear**, te llevará a la siguiente ventana en la cu
 **(Todas las opciones que permiten crear también permiten descartar dichos cambios por si al final no deseamos crear o guardar).**
 
 ![módulo Compras](<Compras3.PNG>)
-
 Para crear una solicitud de presupuesto, volveremos a la página principal y, esta vez, en vez de pulsar en proveedores, pulsaremos en **Solicitudes de**  
 **presupuesto** y en **Crear**. Nos saldrá una ventana como esta, la cual deberemos rellenar con los datos para crear dicho presupuesto.
 
  ![módulo Compras](<Compras4.png>)
- 
  Aquí tienes un ejemplo de cómo se vería una solicitud de presupuesto una vez creada.
 
 ![módulo Compras](<Compras5.png>)
-
 Para crear o dar de alta un nuevo producto en la página principal, pulsaremos **Productos** y en **Crear**. Nos saldrá un recuadro como este,  
 donde introduciremos los datos de nuestro producto. (Aquí tienes un ejemplo de un producto llamado fuet; faltaría solo acabar de rellenar sus datos y clicar  
 en **Guardar** o en **Descartar** si al final no quieres dar de alta ese producto).
 
 ![módulo Compras](<Compras6.png>)
-
 Después de realizar dichas compras, es posible que desees visualizar un informe de ellas. Para ello, pulsa en **Informes**,  
 una opción más del menú de la página principal, y visualizarás una ventana como la siguiente en la que te mostrará los informes de dichas compras.  
 (En este caso, no hay porque no hay compras realizadas). 
 
 ![módulo Compras](<Compras7.png>)
-
 Para visualizar las Tarifas de proveedor hacemos clic en **Configuración** y en **Tarifas de proveedor**; y para crearlas, pulsamos en **Crear**.
 
 ![módulo Compras](<Compras8.png>)
-
 Registramos la tarifa de nuestro proveedor completando los datos en un recuadro como el siguiente.
 
 ![módulo Compras](<Compras9.png>)
-
 Los atributos y las categorías del producto se visualizan y se crean del mismo modo, cada uno es su pantalla correspondiente.
 
 ![módulo Compras](<Compras10.png>)
-
 Después de haber pulsado en **Crear** en la ventana anterior ahora faltaría registrar los datos de los atributos en este recuadro.  
 Después pulsaremos en **Guardar** para registrar los cambios o en **Descartar** si no deseáramos al final guardar dichos atributos.  
 
 ![módulo Compras](<Compras11.png>)
-
 Podrás visualizar las solicitudes de presupuesto o los pedidos de compra en la página principal.
 
 ![módulo Compras](<Compras12.png>)
-
 Clicamos en una solicitud de presupuesto y obtendremos una ventana como la siguiente.  
 
 En esta ventana si clicamos **Imprimir** podremos visualizar e imprimir los pedidos de compra, las solicitudes de presupuesto y si creamos la  
 factura también podremos visualizarla y imprimirla.    
 
 ![módulo Compras](<Compras13.png>)
-
 Aquí tienes un ejemplo de cómo se vería un pedido de compra.
 
 ![módulo Compras](<Compras14.png>)
-
 Este sería otro ejemplo de como se vería la factura.
 
 ![módulo Compras](<Compras15.png>)
