@@ -86,7 +86,7 @@ Una vez pulsado el botón **Crear**, te llevará a la siguiente ventana en la cu
 **Guardar** o en **Descartar** si al final no deseas guardar sus datos.  
 **(Todas las opciones que permiten crear también permiten descartar dichos cambios por si al final no deseamos crear o guardar).**
 
-![módulo Compras](<Compras3.png>)
+![módulo Compras](<Compras3.PNG>)
 
 Para crear una solicitud de presupuesto, volveremos a la página principal y, esta vez, en vez de pulsar en proveedores, pulsaremos en **Solicitudes de**  
 **presupuesto** y en **Crear**. Nos saldrá una ventana como esta, la cual deberemos rellenar con los datos para crear dicho presupuesto.
