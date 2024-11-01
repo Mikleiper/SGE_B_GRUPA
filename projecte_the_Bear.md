@@ -33,7 +33,8 @@ El módulo **Ventas** de Odoo permite gestionar todas las actividades relacionad
 ![la pagina principale](<2- pagina principale de ventas.jpg>)
 
    - Se abrirá un formulario en blanco de cotización.
-![formulario blanco ](<3 -pagina de crear el cliente y el pedido-2.jpg>)
+
+![formulario blanco](<3 -pagina de crear el cliente y el pedido-1.jpg>)
 
 ### 3. Agregar los Detalles de la Cotización
    - **Cliente**: Selecciona un cliente en la base de datos o añade uno nuevo haciendo clic en **Crear**.
@@ -46,7 +47,7 @@ El módulo **Ventas** de Odoo permite gestionar todas las actividades relacionad
    
    - **Fecha de entrega** y **Condiciones de pago**: Completa estos campos para definir los términos de la venta.
     
-    ![fecha y codiciones de pago](<4 - la fecha y condicion de pago .jpg>)
+![la fecha y condicion de pago](<4 - la fecha y condicion de pago -1.jpg>)
 
 ### 4. Guardar y Enviar la Cotización
    - Haz clic en **Guardar** para registrar la cotización.
