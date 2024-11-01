@@ -78,7 +78,7 @@ también podremos ver la solicitud de presupuesto, los pedidos de compra o inclu
 
 En la pantalla de proveedores podrás visualizar aquellos proveedores que tienes dados de alta.
 
-[módulo Compras](<Compras2.png>)
+[módulo Compras](<Compras2.PNG>)
  
 Una vez pulsado el botón **Crear**, te llevará a la siguiente ventana en la cual solo deberás rellenar los datos de tu proveedor y, al finalizar, pulsar en  
 **Guardar** o en **Descartar** si al final no deseas guardar sus datos.  
