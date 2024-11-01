@@ -17,36 +17,55 @@ Miguel Muñoz Baena | Puntos de venta y Planificación
 ### Modulo de eventos
 
 ### Modulo de ventas
+El módulo **Ventas** de Odoo permite gestionar todas las actividades relacionadas con el proceso de ventas, incluyendo la creación de cotizaciones, la conversión de estas en pedidos, y la generación de facturas. Este módulo es fundamental para el seguimiento de pedidos de clientes, la automatización del proceso de facturación y la organización de los datos de ventas en una única plataforma.
 
-### 1. Descripción del Módulo
-El módulo **Ventes** permite gestionar todas las ventas del restaurante, incluyendo la creación y emisión de facturas a los clientes.
- 
-### 2. Funcionalidades Principales
-- **Registrar Clientes**: Añadir clientes y sus datos.
-- **Crear Pedidos de Venta**: Generar y gestionar los pedidos de los clientes.
-- **Emitir Facturas**: Crear facturas asociadas a las ventas realizadas.
+## Pasos para Gestionar una Venta
 
-### 3. Ejemplo de Uso
+### 1. Iniciar Sesión y Acceder al Módulo de Ventas
+   - Inicia sesión en tu cuenta de Odoo.
+   - En el **tablero principal**, haz clic en el módulo **Ventas** para acceder a la página de inicio, donde se muestran las cotizaciones y pedidos existentes.
+   
+   ![Modulo Ventas](<1- ventas-1.jpg>)
 
-1. **Acceder al Módulo de Ventas**: Desde el menú principal, selecciona el módulo **Ventas**.
+### 2. Crear una Nueva Cotización
+   - En la página principal del módulo de Ventas, haz clic en **Crear** o **Nuevo** para iniciar una nueva cotización.
 
-![modulo ventas](<1- ventas-1.jpg>)
+![la pagina principale](<2- pagina principale de ventas.jpg>)
 
-Después de hacer clic en el módulo Ventas, encontrarás un botón **"Nuevo"**. Haz clic en él para crear un nuevo registro.
+   - Se abrirá un formulario en blanco de cotización.
+![formulario blanco ](<3 -pagina de crear el cliente y el pedido-2.jpg>)
 
-![button nuevo](<2- pagina principale de ventas.jpg>)
-2. **Crear un Cliente**: Navega a la sección de **Clientes**, rellena la información del cliente indicada en rojo para crear un nuevo cliente. 
-3. **Generar Pedido**: En la sección de Pedidos, agrega la información del pedido aquí, indicada en verde.
+### 3. Agregar los Detalles de la Cotización
+   - **Cliente**: Selecciona un cliente en la base de datos o añade uno nuevo haciendo clic en **Crear**.
+   
+   ![grear un cliente](<4- crear un cliente.jpg>)
+   
+   - **Productos**: En la sección "Líneas de pedido", agrega los productos o servicios a vender. Especifica la cantidad, el precio y cualquier información adicional.
+   
+   ![agregar productos](<agregar pedidos 4.jpg>)
+   
+   - **Fecha de entrega** y **Condiciones de pago**: Completa estos campos para definir los términos de la venta.
+    
+    ![fecha y codiciones de pago](<4 - la fecha y condicion de pago .jpg>)
 
-![Cliente y pedido](<3 -pagina de crear el cliente y el pedido.jpg>)
-Después, haz clic en "Confirmar" para finalizar.
- un ejemplo 
+### 4. Guardar y Enviar la Cotización
+   - Haz clic en **Guardar** para registrar la cotización.
+   - Para enviarla al cliente, utiliza **Enviar por correo electrónico** o **Imprimir** para obtener una versión impresa.
 
-![Ejemplo](<4- crear el cliente y el pedido.jpg>)
+### 5. Confirmar la Venta
+   - Una vez que el cliente acepte la cotización, accede a ella y haz clic en **Confirmar pedido** para convertir la cotización en un **pedido de venta**.
+   - Después de la confirmación, la cotización se convierte en un pedido activo listo para ser procesado.
 
-4. **Emitir Factura**: En el pedido de venta confirmado, selecciona "Crear Factura" para generar una factura para el cliente.
+![pedido confirmado](<5-pedido confirmado-1.jpg>)
 
-![Crear factura](<5-pedido confirmado.jpg>)
+### 6. Generar la Factura (opcional)
+   - Si es necesario, crea una factura accediendo al pedido y haciendo clic en **Crear factura**.
+   - Completa los detalles de la factura y haz clic en **Validar** para finalizar el registro.
+   
+![Factura](6-factura.jpg)
+
+
+Con estos pasos, puedes gestionar fácilmente una venta en el módulo de Ventas de Odoo, desde la creación de una cotización hasta la confirmación de la orden.
 
 ### Modulo de calendario-citas
 
