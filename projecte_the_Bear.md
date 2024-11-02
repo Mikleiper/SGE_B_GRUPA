@@ -69,6 +69,49 @@ El módulo **Ventas** de Odoo permite gestionar todas las actividades relacionad
 Con estos pasos, puedes gestionar fácilmente una venta en el módulo de Ventas de Odoo, desde la creación de una cotización hasta la confirmación de la orden.
 
 ### Modulo de calendario-citas
+El **Módulo de Calendario** en Odoo es una herramienta esencial para los restaurantes, ya que permite programar y organizar eventos, reservas y citas con proveedores o personal. Este módulo ayuda a optimizar la gestión del tiempo y asegura que el personal esté bien coordinado para atender a los clientes.
+
+## Pasos para Gestionar el Calendario en un Restaurante
+
+### 1. Acceder al Módulo de Calendario
+   
+   - Desde el **tablero principal**, haz clic en el módulo **Calendario** para acceder a la vista del calendario donde se pueden visualizar todos los eventos y reservas programadas.
+
+![modulo calendario](<1- El Modulo calendario .jpg>)
+
+### 2. Crear un Nuevo Evento
+   - En la vista de calendario, selecciona la fecha y la hora del nuevo evento. Alternativamente, puedes hacer clic en **Crear** o **Nuevo** para abrir un formulario en blanco.
+
+![crear un calendario](<2_crear un calendario.jpg>)
+
+   - Se abrirá una ventana emergente para agregar los detalles del evento.
+
+![formulario](<2- formulario blanco modulo calendario.jpg>)
+
+### 3. Agregar los Detalles del Evento
+   - **Título**: Escribe un título descriptivo para el evento, como “Evento Especial” o “Reunión de Personal”.
+   - **Fecha y Hora**: Especifica la fecha y duración del evento.
+   - **Descripción**: Incluye detalles relevantes sobre el evento, como el propósito, la agenda y los participantes.
+   - **Ubicación**: Define el lugar del evento dentro del restaurante o si es virtual.
+
+![Agregar los datos](<3- calendario agregar los datos.jpg>)
+
+### 4. Invitar a Participantes
+   - En el formulario del evento, agrega los correos electrónicos de los participantes o selecciona contactos de la base de datos.
+   - Al guardar el evento, puedes enviar invitaciones por correo electrónico a todos los asistentes.
+
+![Invitar a participantes](<4- calendario.jpg>)
+
+### 5. Visualizar y Modificar Eventos
+   - Los eventos programados aparecerán en el calendario. Puedes hacer clic en cualquier evento para ver o editar sus detalles.
+   - Si se necesita realizar cambios, selecciona el evento y ajusta la información según sea necesario.
+
+![modificar eventos](<5 - editar calendario.jpg>)
+
+### 6. Recordatorios y Notificaciones
+   - Configura recordatorios automáticos para eventos importantes. Esto ayuda al personal a estar preparado y asegura que no se olviden citas o reuniones cruciales.
+
+![recordatories](<6- recordatory.jpg>)
 
 ### Modulo de compras
 
