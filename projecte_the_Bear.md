@@ -10,13 +10,13 @@ Omar Mehenni | Ventas y Calendario
 Juan Carlos Sanchez | Compras y Costes
 Miguel Muñoz Baena | Puntos de venta y Planificación
 
-## Modulos
+## Módulos
 
-### Modulo de empleados
+### Módulo de empleados
 
-### Modulo de eventos
+### Módulo de eventos
 
-### Modulo de ventas
+### Módulo de ventas
 El módulo **Ventas** de Odoo permite gestionar todas las actividades relacionadas con el proceso de ventas, incluyendo la creación de cotizaciones, la conversión de estas en pedidos, y la generación de facturas. Este módulo es fundamental para el seguimiento de pedidos de clientes, la automatización del proceso de facturación y la organización de los datos de ventas en una única plataforma.
 
 ## Pasos para Gestionar una Venta
@@ -68,7 +68,7 @@ El módulo **Ventas** de Odoo permite gestionar todas las actividades relacionad
 
 Con estos pasos, puedes gestionar fácilmente una venta en el módulo de Ventas de Odoo, desde la creación de una cotización hasta la confirmación de la orden.
 
-### Modulo de calendario-citas
+### Módulo de calendario-citas
 El **Módulo de Calendario** en Odoo es una herramienta esencial para los restaurantes, ya que permite programar y organizar eventos, reservas y citas con proveedores o personal. Este módulo ayuda a optimizar la gestión del tiempo y asegura que el personal esté bien coordinado para atender a los clientes.
 
 ## Pasos para Gestionar el Calendario en un Restaurante
@@ -113,7 +113,7 @@ El **Módulo de Calendario** en Odoo es una herramienta esencial para los restau
 
 ![recordatories](<6- recordatory.jpg>)
 
-### Modulo de compras
+## Módulo de compras
 
 ### 1. Descripción del módulo
 Gracias al módulo Compras, podemos gestionar las compras realizadas a nuestros proveedores, así como las solicitudes de presupuesto.  
@@ -195,16 +195,16 @@ Este sería otro ejemplo de como se vería la factura.
 
 ![módulo Compras](<Compras15.png>)
 
-### Modulo de costes
+### Módulo de gastos
 
-### Modulo de puntos de venta
+### Módulo de puntos de venta
 
-#### 1. Descripción del modulo
+#### 1. Descripción del módulo
 El módulo **Punto de venta**  está diseñado para para cubrir las necesidades específicas de un restaurante, ofreciendo una solución integral para mejorar el servicio al cliente, optimizar el flujo de trabajo y tener un control completo de la operación del restaurante. Además, podemos conectar una gran variedad de dispositivos (p ej: bascula, datafono, impresora térmica, etc.) a un PC o tablet que esté conectado a Odoo, también se pude personlizar y configurar para necesidades especificas. No hace falta que esté conectado constantemente a internet.
 
 ### 2. Funcionalidades Principales
 - **Gestión de mesas y planos del salón**: Permite crear un plano visual del salón del restaurante, configurando la disposición de las mesas. Esto facilita ver qué mesas están ocupadas, libres o en espera, optimizando el flujo de servicio. De este modo, el personal puede asignar pedidos a cada mesa y hacer seguimiento en tiempo real del estado de cada pedido.
--**Toma de pedidos directa en mesa**: Los camareros pueden tomar pedidos directamente en la mesa usando dispositivos como tablets o smartphones, evitando errores y reduciendo el tiempo de espera. Los pedidos se envían automáticamente a la cocina en tiempo real, lo cual agiliza la preparación y evita desplazamientos innecesarios.
+- **Toma de pedidos directa en mesa**: Los camareros pueden tomar pedidos directamente en la mesa usando dispositivos como tablets o smartphones, evitando errores y reduciendo el tiempo de espera. Los pedidos se envían automáticamente a la cocina en tiempo real, lo cual agiliza la preparación y evita desplazamientos innecesarios.
 - **Gestión de pedidos**: Se pueden agregar o modificar ítems mientras los clientes aún están en la mesa. Admite personalizar los platos según las solicitudes de los clientes (como agregar o quitar ingredientes), y estas instrucciones se envían directamente a la cocina para evitar confusiones.
 - **División de cuentas y pagos múltiples**: Facilita dividir la cuenta en caso de que los clientes quieran pagar por separado o dividir la cuenta por plato, por persona, o por cualquier combinación. Es compatible con varios métodos de pago, permitiendo aceptar efectivo, tarjetas, o una combinación de ambos en una misma cuenta.
 - **Impresiones automáticas en cocina y barra**: El sistema permite configurar impresiones automáticas de pedidos para diferentes zonas (cocina, barra, etc.), de modo que cada área recibe solo los pedidos que le corresponden.
@@ -243,4 +243,18 @@ También podemos ir al menú de pago y especificar el modo de pago y aplicar des
 
 ![modulo pventas](<pventas7.jpg>)
 
-### Modulo de planificación
+### Módulo de planificación
+
+### 1. Descripción del módulo
+Este módulo es utilizada en la restaruacaión para la gestión  de horarios y turnos del personal, siendo una herramienta imprescindible para la organización del personal según la previson de demanda. Así, el módulo de **planifiación** te puede ayudar a anticipar necesidades según la afluencia de clientes y optimizar la disponibilidad de personal para asegurar un servicio eficiente.
+
+### 2. Funcionalidades Principales
+
+- **Gestión de horarios y turnos**: Permite crear, asignar y gestionar los turnos de trabajo del personal de manera visual, Los empleados pueden ver sus horarios en tiempo real, así como recibir avisos automatizados, reduciendo la posibilidad de malentendidos.
+- **Planificación basada en demanda**: Permite ajustar los turnos de trabajo en función de la demanda esperada.
+- **Registro de ausencias y permisos**: Los empleados pueden solicitar permisos y registrar ausencias, facilitando la gestión de sustituciones y control de asistencia.
+- **Integración con el módulo de Nómina y Recursos Humanos**: la integración con estos dos módulos facilita el calculao de nominas y gestionar otras funciones de personal.
+- **Planificación de eventos y reservas especiales**: organizar el pesonal necesario para por ejemplo cumpleaños, bautizos, etc.
+- **Informes y análisis de productividad**: puede generar informmes del rendimiento del personal.
+
+### 3. Ejemplo de Uso
