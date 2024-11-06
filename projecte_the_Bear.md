@@ -14,6 +14,63 @@ Miguel Muñoz Baena | Puntos de venta y Planificación
 
 ### Módulo de empleados
 
+## 1. Descripción del módulo
+El módulo **Empleados** permite gestionar y administar toda la información relevante del personal en una empresa. Eso incluye gestión de empleados, gestión de departamentos, recultamientos, informes..etc 
+
+## 2. Funcionalidades Principales
+
+- **Gestión de Perfiles de Empleados**: Permite crear perfiles detallados con información personal, detalles de contacto, cargo, departamento y personalización de roles.
+- **Gestión de Contratos y Puestos**: Permite administración de contratos de trabajo, adaptando el sistema para diferentes tipos de jornada (completa, parcial, por horas), 
+- **Organigrama y Jerarquía de Roles**: Permite la creación de un organigrama que muestra la estructura jerárquica del equipo y asignación de roles específicos a cada empleado. 
+- **Documentación y Archivos**: Almacena y gestiona documentos importantes asociados al perfil de cada empleado.
+- **Historial de Empleados**: Registra cambios importantes de cada empleado, como promociones, movimientos internos, etc.
+- **Informes y Análisis**: Genera reportes sobre la plantilla de empleados para análisis y toma de decisiones.
+
+## 3. Ejemplo de Uso
+
+### 1. Acceder al Módulo de Empleados
+   - Para acceder, abre el módulo de Empleados desde el panel principal de módulos.
+
+   ![Modulo Empleados](<Empleats01.png>)
+
+### 2.Vista principal del módulo
+   - Esta es la pantalla principal en la que podrás gestionar los datos de empleados, departamentos, entre otros.
+
+   ![Modulo Empleados](<Empleats02.png>)
+
+### 3. Registación de usuario.
+   - Para registrar un nuevo empleado, haz clic en Nuevo y se mostrará un formulario que deberá completar con los datos del empleado.
+   - También puede agregar el currículum y las habilidades del empleado.
+
+   ![Modulo Empleados](<Empleats03.png>)
+
+   -En esta plantilla puede generar un ID para la identificación de empleados, junto con un código PIN para cada empleado. Además, también puede gestionar el contrato y los pagos.
+
+   ![Modulo Empleados](<Empleats04.png>)
+   ![Modulo Empleados](<Empleats05.png>)
+
+### 4. Gestión de Departamentos
+   - Para crear un nuevo departamento o modificar uno existente, puede gestionarlo en el panel de departamentos.
+
+   ![Modulo Empleados](<Empleats06.png>)
+
+### 5. Informes
+   - En el panel de Informes, encontrará los informes sobre las cualificaciones y habilidades de cada empleado.
+
+   ![Modulo Empleados](<Empleats07.png>)
+
+### 6. Configuración
+   - En el panel de configuración se puede gestionar toda la información sobre:
+
+   - **Plan de actividades.**
+   - **Ubicación de trabajo:** desde casa, presencial, semipresencial, remoto etc.
+   - **Horarios:** estándar o personalizados.
+   - **Motivos de salida:** despedido, renunció, jubilado, etc.
+   - **Puesto de trabajo y tipo de empleado.**
+   - **Insignias, desafíos, etc.**
+
+   ![Modulo Empleados](<Empleats08.png>)
+
 ### Módulo de eventos
 
 ### Módulo de ventas
