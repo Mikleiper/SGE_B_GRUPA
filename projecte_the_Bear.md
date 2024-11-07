@@ -15,7 +15,7 @@ Miguel Muñoz Baena | Puntos de venta y Planificación
 ## Módulo de empleados
 
 ### 1. Descripción del módulo
-El módulo **Empleados** permite gestionar y administar toda la información relevante del personal en una empresa. Eso incluye gestión de empleados, gestión de departamentos, recultamientos, informes..etc 
+El módulo **Empleados** permite gestionar y administrar toda la información relevante del personal en una empresa. Eso incluye gestión de empleados, gestión de departamentos, reclutamientos, informes, etc. 
 
 ### 2. Funcionalidades principales
 
@@ -38,7 +38,7 @@ El módulo **Empleados** permite gestionar y administar toda la información rel
 
    ![Modulo Empleados](<Empleats02.png>)
 
-### 3. Registación de usuario.
+### 3. Registrar un empleado.
    - Para registrar un nuevo empleado, haz clic en Nuevo y se mostrará un formulario que deberá completar con los datos del empleado.
    - También puede agregar el currículum y las habilidades del empleado.
 
@@ -220,8 +220,7 @@ Además, podemos visualizar los pedidos de compra e incluso las facturas de nues
 ### 2. Funcionalidades principales
 - **Registrar proveedores:** Añadir proveedores y sus datos.
 - **Crear solicitudes de presupuesto y pedidos de compra:** Generar solicitudes de presupuesto y pedidos de compra.
-- **Recepcionar compras:** Cuando recibamos el pedido de los proveedores, podremos recepcionar la compra y visualizar la factura;  
-también podremos ver la solicitud de presupuesto, los pedidos de compra o incluso los albaranes.
+- **Recepcionar compras:** Cuando recibamos el pedido de los proveedores, podremos recepcionar la compra y visualizar la factura; también podremos ver la solicitud de presupuesto, los pedidos de compra o incluso los albaranes.
 - **Añadir nuevos productos:** Podemos dar de alta nuevos productos en nuestro restaurante.
 - **Informes de compra:** Podemos visualizar los informes de las compras realizadas.
 - **Crear tarifas de proveedor:** Podemos guardar y visualizar las tarifas de los proveedores.
@@ -298,7 +297,7 @@ Este sería otro ejemplo de como se vería la factura.
 ## Módulo de puntos de venta
 
 ### 1. Descripción del módulo
-El módulo **Punto de venta**  és uno de los más importantes para un negocio de restauración. Está diseñado para ofrecer una solución integral para los pedidos, ventas y transacciones que se dan en el dia a dia en el restaruante. Mejorando el servicio al cliente, optimizando el flujo de trabajo y ofreciendo un control completo de la operativa del restaurante. Además, podemos conectar una gran variedad de dispositivos (p ej: bascula, datafono, impresora térmica, etc.) a un PC o tablet que esté conectado a Odoo, pudiendose personlizar y configurar para necesidades especificas. 
+El módulo **Punto de venta**  és uno de los más importantes para un negocio de restauración. Está diseñado para ofrecer una solución integral para los pedidos, ventas y transacciones que se dan en el día a día en el restaurante. Mejorando el servicio al cliente, optimizando el flujo de trabajo y ofreciendo un control completo de la operativa del restaurante. Además, podemos conectar una gran variedad de dispositivos (p ej: bascula, datafono, impresora térmica, etc.) a un PC o tablet que esté conectado a Odoo, pudiéndose personalizar y configurar para necesidades específicas. 
 
 ### 2. Funcionalidades principales
 - **Gestión de mesas y planos del salón**: Permite crear un plano visual personalizado del salón y/o terraza del restaurante. Esto facilita ver qué mesas están ocupadas, libres o en espera, optimizando el flujo de servicio. De este modo, el personal puede asignar pedidos a cada mesa y hacer seguimiento en tiempo real del estado de cada pedido.
@@ -318,7 +317,7 @@ El módulo **Punto de venta**  és uno de los más importantes para un negocio d
 ![modulo pventas](<pventas1.jpg>)
 
 ### 2. Iniciar caja del dia
-   - Después de hacer clic en el módulo punto de venta, encontrarás un botón **"Abrir caja registradora"**. Haz click en este para empezar una nueva jornada de tabajo.
+   - Después de hacer clic en el módulo punto de venta, encontrarás un botón **"Abrir caja registradora"**. Haz click en este para empezar una nueva jornada de trabajo.
 
 ![modulo pventas](<pventas2.jpg>)
 
@@ -338,7 +337,7 @@ Cuando seleccione una comida, por ejemplo la hamburguesa de queso, puede persona
 
 ![modulo pventas](<pventas5.jpg>)
 
-### 6. Personificar pedido y envio de peidod a cocina
+### 6. Personificar pedido y envío de pedido a cocina
    - Podemos personalizar (3) que cliente que es (p ej: para aplicar descuentos), especificar (4) una nota para cocina (p ej para que tarden en servir el plato o que no pongan determinados ingredientes), realizar el pedido (5) a cocina.
 
 ![modulo pventas](<pventas6.jpg>)
@@ -351,16 +350,16 @@ Cuando seleccione una comida, por ejemplo la hamburguesa de queso, puede persona
 ### Módulo de planificación
 
 ### 1. Descripción del módulo
-Este módulo se utiliza para la gestión de horarios y turnos del personal, siendo una herramienta imprescindible para la organización del personal según la previson de demanda. Así, el módulo de **planifiación** te puede ayudar a anticipar necesidades según la afluencia de clientes y optimizar la disponibilidad de personal para asegurar un servicio eficiente.
+Este módulo se utiliza para la gestión de horarios y turnos del personal, siendo una herramienta imprescindible para la organización del personal según la previsión de demanda. Así, el módulo de **planificación** te puede ayudar a anticipar necesidades según la afluencia de clientes y optimizar la disponibilidad de personal para asegurar un servicio eficiente.
 
 ### 2. Funcionalidades principales
 
 - **Gestión de horarios y turnos**: Permite crear, asignar y gestionar los turnos de trabajo del personal de manera visual, Los empleados pueden ver sus horarios en tiempo real, así como recibir avisos automatizados, reduciendo la posibilidad de malentendidos.
 - **Planificación basada en demanda**: Permite ajustar los turnos de trabajo en función de la demanda esperada.
 - **Registro de ausencias y permisos**: Los empleados pueden solicitar permisos y registrar ausencias, facilitando la gestión de sustituciones y control de asistencia.
-- **Integración con el módulo de Nómina y Recursos Humanos**: la integración con estos dos módulos facilita el calculao de nominas y gestionar otras funciones de personal.
-- **Planificación de eventos y reservas especiales**: organizar el pesonal necesario para por ejemplo cumpleaños, bautizos, etc.
-- **Informes y análisis de productividad**: puede generar informmes del rendimiento del personal.
+- **Integración con el módulo de Nómina y Recursos Humanos**: la integración con estos dos módulos facilita el calculo de nóminas y gestionar otras funciones de personal.
+- **Planificación de eventos y reservas especiales**: organizar el personal necesario para por ejemplo cumpleaños, bautizos, etc.
+- **Informes y análisis de productividad**: puede generar informes del rendimiento del personal.
 
 ### 3. Ejemplo de uso
 
@@ -375,15 +374,32 @@ Este módulo se utiliza para la gestión de horarios y turnos del personal, sien
    ![Modulo Planififación](<plani1.jpg>)
    ![Modulo Planififación](<plani3.jpg>)
    
-   - En *Recurso* añadimos al empleado si ya lo tenemos crado y lo creamos al momento escribiendo el nombre y dándole a crear en la pestaña que aparece debajo. 
+   - En *Recurso* añadimos al empleado si ya lo tenemos creado y lo creamos al momento escribiendo el nombre y dándole a crear en la pestaña que aparece debajo. 
 
    ![Modulo Planififación](<plani2.jpg>)
 
 ### 3. Visualización de los turnos
-   - Podemos visualizar los turnos asignados de diversas maneras : por ejmeplo según la semana actual, varias semanas, según el mes, etc.
+   - Podemos visualizar los turnos asignados en diversos formatos: por ejemplo según la semana actual, varias semanas, según el mes, etc.
 
    ![Modulo Planififación](<plani4.jpg>)
    ![Modulo Planififación](<plani5.jpg>)
 
+### 4. Crear informes
+   - Se pueden crear informes y gráficos sobre diversos aspectos, como por ejemplo ver cuantas horas se han asignado durante un mes a ciertos roles específicos.
 
+   ![Modulo Planififación](<plani6.jpg>)
+   ![Modulo Planififación](<plani7.jpg>)
+   ![Modulo Planififación](<plani8.jpg>)
+
+### 5. Enviar horarios a los empleados
+   - Se pueden enviar los horarios a los empleados por correo electrónico, aspecto importante en la hostelería por la variación que puede haber en estos.
+
+   ![Modulo Planififación](<plani9.jpg>)
+   ![Modulo Planififación](<plani10.jpg>)
+
+   - Así lo recibiría el empleado.
+
+   ![Modulo Planififación](<plani11.jpg>)
+
+   
 
