@@ -1,7 +1,7 @@
 # SGE_B_GRUPA
 ## Activitat 1 - The bear
 
-### Integrants del grup:
+## Integrantes del grup:
 
 **Nombres**|**Tareas**
 ---|---
@@ -12,12 +12,12 @@ Miguel Muñoz Baena | Puntos de venta y Planificación
 
 ## Módulos
 
-### Módulo de empleados
+## Módulo de empleados
 
-## 1. Descripción del módulo
+### 1. Descripción del módulo
 El módulo **Empleados** permite gestionar y administar toda la información relevante del personal en una empresa. Eso incluye gestión de empleados, gestión de departamentos, recultamientos, informes..etc 
 
-## 2. Funcionalidades Principales
+### 2. Funcionalidades principales
 
 - **Gestión de Perfiles de Empleados**: Permite crear perfiles detallados con información personal, detalles de contacto, cargo, departamento y personalización de roles.
 - **Gestión de Contratos y Puestos**: Permite administración de contratos de trabajo, adaptando el sistema para diferentes tipos de jornada (completa, parcial, por horas), 
@@ -26,7 +26,7 @@ El módulo **Empleados** permite gestionar y administar toda la información rel
 - **Historial de Empleados**: Registra cambios importantes de cada empleado, como promociones, movimientos internos, etc.
 - **Informes y Análisis**: Genera reportes sobre la plantilla de empleados para análisis y toma de decisiones.
 
-## 3. Ejemplo de Uso
+### 3. Ejemplo de uso
 
 ### 1. Acceder al Módulo de Empleados
    - Para acceder, abre el módulo de Empleados desde el panel principal de módulos.
@@ -71,12 +71,36 @@ El módulo **Empleados** permite gestionar y administar toda la información rel
 
    ![Modulo Empleados](<Empleats08.png>)
 
-### Módulo de eventos
+## Módulo de eventos
 
-### Módulo de ventas
-El módulo **Ventas** de Odoo permite gestionar todas las actividades relacionadas con el proceso de ventas, incluyendo la creación de cotizaciones, la conversión de estas en pedidos, y la generación de facturas. Este módulo es fundamental para el seguimiento de pedidos de clientes, la automatización del proceso de facturación y la organización de los datos de ventas en una única plataforma.
+## Módulo de ventas
 
-## Pasos para Gestionar una Venta
+### 1. Descripción del módulo
+El módulo **Ventas** permite gestionar todas las actividades relacionadas con el proceso de ventas, incluyendo la creación de cotizaciones, la conversión de estas en pedidos, y la generación de facturas. Este módulo es fundamental para el seguimiento de pedidos de clientes, la automatización del proceso de facturación y la organización de los datos de ventas en una única plataforma.
+
+### 2. Funcionalidades principales
+- **Crear y gestionar cotizaciones:**
+Permite crear una nueva cotización desde cero, seleccionando el cliente, los productos y especificando las condiciones de pago y entrega.
+
+- **Convertir cotización a pedido de venta:**
+Cuando el cliente acepta la cotización, puedes convertirla en un pedido de venta, para continuar con el proceso de venta.
+
+- **Añadir productos y detalles:**
+En las cotizaciones y pedidos, puedes agregar productos o servicios, definir las cantidades y precios, y modificar otros detalles como las condiciones de entrega.
+
+- **Guardar y enviar cotizaciones:**
+Después de crear la cotización, puedes guardarla y enviarla al cliente por correo electrónico o imprimirla para entregarla físicamente.
+
+- **Generar facturas:**
+Si el pedido se confirma, puedes crear la factura asociada al pedido y validarla para finalizar el proceso de venta.
+
+- **Ver el estado de los pedidos:**
+Puedes seguir el estado de cada pedido, desde la creación hasta la confirmación y la facturación.
+
+### 3. Ejemplo de uso
+
+
+### Pasos para Gestionar una Venta
 
 ### 1. Iniciar Sesión y Acceder al Módulo de Ventas
    - Inicia sesión en tu cuenta de Odoo.
@@ -126,7 +150,24 @@ El módulo **Ventas** de Odoo permite gestionar todas las actividades relacionad
 Con estos pasos, puedes gestionar fácilmente una venta en el módulo de Ventas de Odoo, desde la creación de una cotización hasta la confirmación de la orden.
 
 ### Módulo de calendario-citas
-El **Módulo de Calendario** en Odoo es una herramienta esencial para los restaurantes, ya que permite programar y organizar eventos, reservas y citas con proveedores o personal. Este módulo ayuda a optimizar la gestión del tiempo y asegura que el personal esté bien coordinado para atender a los clientes.
+
+### 1. Descripción del módulo
+El **Módulo de Calendario** es una herramienta esencial para los restaurantes, ya que permite programar y organizar eventos, reservas y citas con proveedores o personal. Este módulo ayuda a optimizar la gestión del tiempo y asegura que el personal esté bien coordinado para atender a los clientes.
+
+### 2. Funcionalidades principales
+
+- **Organizar eventos y reservas:**
+El módulo permite programar eventos, como reuniones con el personal, cenas especiales, o citas con proveedores.
+- **Gestión de horarios:**
+ Ayuda a organizar las citas y eventos del restaurante en un calendario visual, asegurando que todo esté bien planeado.
+- **Notificaciones y recordatorios:**
+ Puedes configurar alertas para recordar a los empleados sobre citas y eventos importantes, para no olvidar nada.
+- **Invitar a personas:**
+ Puedes enviar invitaciones por correo electrónico a los participantes de los eventos.
+- **Modificar eventos:**
+ Si es necesario cambiar algo en un evento, puedes hacerlo fácilmente desde el calendario.
+
+### 3. Ejemplo de uso
 
 ## Pasos para Gestionar el Calendario en un Restaurante
 
@@ -176,7 +217,7 @@ El **Módulo de Calendario** en Odoo es una herramienta esencial para los restau
 Gracias al módulo Compras, podemos gestionar las compras realizadas a nuestros proveedores, así como las solicitudes de presupuesto.  
 Además, podemos visualizar los pedidos de compra e incluso las facturas de nuestros proveedores.
 
-### 2. Funcionalidades Principales
+### 2. Funcionalidades principales
 - **Registrar proveedores:** Añadir proveedores y sus datos.
 - **Crear solicitudes de presupuesto y pedidos de compra:** Generar solicitudes de presupuesto y pedidos de compra.
 - **Recepcionar compras:** Cuando recibamos el pedido de los proveedores, podremos recepcionar la compra y visualizar la factura;  
@@ -186,7 +227,7 @@ también podremos ver la solicitud de presupuesto, los pedidos de compra o inclu
 - **Crear tarifas de proveedor:** Podemos guardar y visualizar las tarifas de los proveedores.
 - **Registrar atributos o categorías para los productos:** Tenemos la opción de añadir atributos o categorías a los productos del restaurante rellenando sus datos.
 
-### 3. Ejemplo de Uso
+### 3. Ejemplo de uso
 
 ### 1. Acceder al módulo de Compras
 
@@ -277,8 +318,9 @@ Este sería otro ejemplo de como se vería la factura.
 
 ![módulo Compras](<Compras15.png>)
 
-### Módulo de gastos
+## Módulo de gastos
 
+<<<<<<< HEAD
 ### 1. Descripción del módulo
 
 Gracias al módulo Gastos, podemos viualizar ,gestionar , crear y analizar todos los gastos realizados en el restaurante:  
@@ -352,57 +394,67 @@ Aquí tienes una muestra de cómo se vería un informe ya con los gastos desglos
 
 
 ### Módulo de puntos de venta
+=======
+## Módulo de puntos de venta
+>>>>>>> b25097b765660c91a3ec57e57ad46341452b3abd
 
-#### 1. Descripción del módulo
-El módulo **Punto de venta**  está diseñado para para cubrir las necesidades específicas de un restaurante, ofreciendo una solución integral para mejorar el servicio al cliente, optimizar el flujo de trabajo y tener un control completo de la operación del restaurante. Además, podemos conectar una gran variedad de dispositivos (p ej: bascula, datafono, impresora térmica, etc.) a un PC o tablet que esté conectado a Odoo, también se pude personlizar y configurar para necesidades especificas. No hace falta que esté conectado constantemente a internet.
+### 1. Descripción del módulo
+El módulo **Punto de venta**  és uno de los más importantes para un negocio de restauración. Está diseñado para ofrecer una solución integral para los pedidos, ventas y transacciones que se dan en el dia a dia en el restaruante. Mejorando el servicio al cliente, optimizando el flujo de trabajo y ofreciendo un control completo de la operativa del restaurante. Además, podemos conectar una gran variedad de dispositivos (p ej: bascula, datafono, impresora térmica, etc.) a un PC o tablet que esté conectado a Odoo, pudiendose personlizar y configurar para necesidades especificas. 
 
-### 2. Funcionalidades Principales
-- **Gestión de mesas y planos del salón**: Permite crear un plano visual del salón del restaurante, configurando la disposición de las mesas. Esto facilita ver qué mesas están ocupadas, libres o en espera, optimizando el flujo de servicio. De este modo, el personal puede asignar pedidos a cada mesa y hacer seguimiento en tiempo real del estado de cada pedido.
+### 2. Funcionalidades principales
+- **Gestión de mesas y planos del salón**: Permite crear un plano visual personalizado del salón y/o terraza del restaurante. Esto facilita ver qué mesas están ocupadas, libres o en espera, optimizando el flujo de servicio. De este modo, el personal puede asignar pedidos a cada mesa y hacer seguimiento en tiempo real del estado de cada pedido.
 - **Toma de pedidos directa en mesa**: Los camareros pueden tomar pedidos directamente en la mesa usando dispositivos como tablets o smartphones, evitando errores y reduciendo el tiempo de espera. Los pedidos se envían automáticamente a la cocina en tiempo real, lo cual agiliza la preparación y evita desplazamientos innecesarios.
 - **Gestión de pedidos**: Se pueden agregar o modificar ítems mientras los clientes aún están en la mesa. Admite personalizar los platos según las solicitudes de los clientes (como agregar o quitar ingredientes), y estas instrucciones se envían directamente a la cocina para evitar confusiones.
-- **División de cuentas y pagos múltiples**: Facilita dividir la cuenta en caso de que los clientes quieran pagar por separado o dividir la cuenta por plato, por persona, o por cualquier combinación. Es compatible con varios métodos de pago, permitiendo aceptar efectivo, tarjetas, o una combinación de ambos en una misma cuenta.
+- **División de cuentas y pagos múltiples**: Facilita dividir la cuenta en caso de que los clientes quieran pagar por separado o dividir la cuenta por plato, por persona, o por cualquier combinación. Es compatible con varios métodos de pago, aceptando efectivo, tarjetas, cuentas o una combinación de diversos en una misma cuenta.
 - **Impresiones automáticas en cocina y barra**: El sistema permite configurar impresiones automáticas de pedidos para diferentes zonas (cocina, barra, etc.), de modo que cada área recibe solo los pedidos que le corresponden.
-- **Gestión de promociones y descuentos**: Es posible configurar descuentos especiales, menús del día, promociones 2x1, o cualquier otra oferta temporal de manera sencilla en el sistema. También se pueden aplicar automáticamente según el día, la hora, o según las configuraciones específicas de cada restaurante.
-- **Control de inventario de ingredientes**: Cada plato puede estar vinculado con los ingredientes necesarios en el **módulo de Inventario** de Odoo. Esto permite una disminución automática del inventario conforme se realizan los pedidos, asegurando el control de existencias. Ayuda a evitar el desabastecimiento y facilita la planificación de compras, especialmente en días de alta demanda.
-- **Informes y análisis en tiempo real**: Permite generar informes sobre los platos más vendidos, horas pico, facturación por mesero, y muchos otros datos importantes para el restaurante. Estos análisis permiten ajustar los menús, mejorar el servicio y tomar decisiones basadas en datos sobre la operación del restaurante.
+- **Gestión de promociones y descuentos**: Es posible configurar descuentos especiales, menús del día entre semana, menús de fin de semana, promociones 2x1, o cualquier otra oferta temporal. 
+- **Control de inventario de ingredientes**: Los ingredientes necesarios para la realización de cada plato pueden estar vinculados con el stock registrado en el **módulo de Inventario** de Odoo. Asegurando el control de existencias y ayudando a evitar el desabastecimiento y facilitar la planificación de compras, especialmente en días de alta demanda.
+- **Informes y análisis en tiempo real**: Permite generar informes sobre los platos más vendidos, horas pico, facturación por mesero, y muchos otros datos importantes para el restaurante. Estos análisis permiten ajustar los menús, mejorar el servicio y tomar decisiones basadas en datos sobre la operativa del restaurante.
 
-### 3. Ejemplo de Uso
+### 3. Ejemplo de uso
 
-1. **Acceder al Módulo de punto de venta**: Desde el menú principal, selecciona el módulo **punto de venta**.
+### 1. Acceder al Módulo de punto de venta
+   - Desde el menú principal, selecciona el módulo **punto de venta**.
 
 ![modulo pventas](<pventas1.jpg>)
 
-Después de hacer clic en el módulo punto de venta, encontrarás un botón **"Abrir caja registradora"**. Haz click en este para empezar una nueva jornada de tabajo.
+### 2. Iniciar caja del dia
+   - Después de hacer clic en el módulo punto de venta, encontrarás un botón **"Abrir caja registradora"**. Haz click en este para empezar una nueva jornada de tabajo.
 
 ![modulo pventas](<pventas2.jpg>)
 
-En la nueva ventana tendremos que poner (1) con cuánto dinero en efectivo empezamos en caja, apretando en (2) podemos especificar qué tipo y cuanta cantidad de billetes y monedas disponemos. Empezamos la (3) sesión apretando al botón "Abrir caja registradora".
+### 3. Especificar el cambio que tenemos 
+   - En la nueva ventana tendremos que poner (1) con cuánto dinero en efectivo empezamos en caja, apretando en (2) podemos especificar qué tipo y cuanta cantidad de billetes y monedas disponemos. Empezamos la (3) sesión apretando al botón "Abrir caja registradora".
 
 ![modulo pventas](<pventas3.jpg>)
 
-Si nos ponemos en la piel de un camarero, en la tablet que lleve puedo ver el mapa del salón y seleccionar la mesa en la que le hacen un pedido, por ejemplo en la mesa 5. Tras esto se abre otra ventana en la que puedo tomar el pedido apuntar que bebida y/o comida me piden.
+### 4. Tomar nota de un pedido
+   - Si nos ponemos en la piel de un camarero, en la tablet que lleve puedo ver el mapa del salón y seleccionar la mesa en la que le hacen un pedido, por ejemplo en la mesa 5. Tras esto se abre otra ventana en la que puedo tomar el pedido apuntar que bebida y/o comida le piden.
 Cuando seleccione una comida, por ejemplo la hamburguesa de queso, puede personalizar el pedido, añadiendo el tipo de acompañamiento. 
 
 ![modulo pventas](<pventas4.jpg>)
 
-Ahora en la parte izquierda saldrá el pedido y cuanto suma. Podemos realizar diversas acciones (1) como añadir un comentario que haga el cliente, aplicar un sobrecoste (p ej si está en terraza) transferir la cuenta a otra mesa (p ej: el cliente se cambia de mesa), calcular el coste entre varias personas o emitir una factura. También podemos (2) variar la cantidad que solicitan.
+### 5. Editar los pedidos
+   - Ahora en la parte izquierda saldrá el pedido y cuanto suma. Podemos realizar diversas acciones (1) como añadir un comentario que haga el cliente, aplicar un sobrecoste (p ej si está en terraza), transferir la cuenta a otra mesa (p ej: el cliente se cambia de mesa), calcular el coste entre varias personas o emitir una factura. También podemos (2) variar la cantidad que solicitan.
 
 ![modulo pventas](<pventas5.jpg>)
 
-Podemos personalizar (3) que cliente que es (p ej: para aplicar descuentos), especificar (4) una nota para cocina (p ej para que tarden en servir el plato o que no pongan determinados ingredientes), realizar el pedido (5) a cocina.
+### 6. Personificar pedido y envio de peidod a cocina
+   - Podemos personalizar (3) que cliente que es (p ej: para aplicar descuentos), especificar (4) una nota para cocina (p ej para que tarden en servir el plato o que no pongan determinados ingredientes), realizar el pedido (5) a cocina.
 
 ![modulo pventas](<pventas6.jpg>)
 
-También podemos ir al menú de pago y especificar el modo de pago y aplicar descuentos o recargos (p. ejemplo clientes a los que se ha fiado dinero en el pasado)
+### 7. Pago y aplicación de descuentos
+   - También podemos ir al menú de pago y especificar el modo de pago y aplicar descuentos o recargos (p. ejemplo clientes a los que se ha fiado dinero en el pasado)
 
 ![modulo pventas](<pventas7.jpg>)
 
 ### Módulo de planificación
 
 ### 1. Descripción del módulo
-Este módulo es utilizada en la restaruacaión para la gestión  de horarios y turnos del personal, siendo una herramienta imprescindible para la organización del personal según la previson de demanda. Así, el módulo de **planifiación** te puede ayudar a anticipar necesidades según la afluencia de clientes y optimizar la disponibilidad de personal para asegurar un servicio eficiente.
+Este módulo se utiliza para la gestión de horarios y turnos del personal, siendo una herramienta imprescindible para la organización del personal según la previson de demanda. Así, el módulo de **planifiación** te puede ayudar a anticipar necesidades según la afluencia de clientes y optimizar la disponibilidad de personal para asegurar un servicio eficiente.
 
-### 2. Funcionalidades Principales
+### 2. Funcionalidades principales
 
 - **Gestión de horarios y turnos**: Permite crear, asignar y gestionar los turnos de trabajo del personal de manera visual, Los empleados pueden ver sus horarios en tiempo real, así como recibir avisos automatizados, reduciendo la posibilidad de malentendidos.
 - **Planificación basada en demanda**: Permite ajustar los turnos de trabajo en función de la demanda esperada.
@@ -411,4 +463,28 @@ Este módulo es utilizada en la restaruacaión para la gestión  de horarios y t
 - **Planificación de eventos y reservas especiales**: organizar el pesonal necesario para por ejemplo cumpleaños, bautizos, etc.
 - **Informes y análisis de productividad**: puede generar informmes del rendimiento del personal.
 
-### 3. Ejemplo de Uso
+### 3. Ejemplo de uso
+
+### 1. Acceder al Módulo de planificación
+   - Para acceder, abre el **módulo de planificación** desde el panel principal de módulos.
+
+   ![Modulo Planififación](<plani0.jpg>)
+
+### 2. Crear turnos
+   - Desde esta pagina podemos empezar a crear y personalizar los turnos según el personal que tengamos contratado.
+
+   ![Modulo Planififación](<plani1.jpg>)
+   ![Modulo Planififación](<plani3.jpg>)
+   
+   - En *Recurso* añadimos al empleado si ya lo tenemos crado y lo creamos al momento escribiendo el nombre y dándole a crear en la pestaña que aparece debajo. 
+
+   ![Modulo Planififación](<plani2.jpg>)
+
+### 3. Visualización de los turnos
+   - Podemos visualizar los turnos asignados de diversas maneras : por ejmeplo según la semana actual, varias semanas, según el mes, etc.
+
+   ![Modulo Planififación](<plani4.jpg>)
+   ![Modulo Planififación](<plani5.jpg>)
+
+
+
