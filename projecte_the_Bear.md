@@ -76,7 +76,7 @@ El módulo **Empleados** permite gestionar y administar toda la información rel
 ## Módulo de ventas
 
 ### 1. Descripción del módulo
-El módulo **Ventas** de Odoo permite gestionar todas las actividades relacionadas con el proceso de ventas, incluyendo la creación de cotizaciones, la conversión de estas en pedidos, y la generación de facturas. Este módulo es fundamental para el seguimiento de pedidos de clientes, la automatización del proceso de facturación y la organización de los datos de ventas en una única plataforma.
+El módulo **Ventas** permite gestionar todas las actividades relacionadas con el proceso de ventas, incluyendo la creación de cotizaciones, la conversión de estas en pedidos, y la generación de facturas. Este módulo es fundamental para el seguimiento de pedidos de clientes, la automatización del proceso de facturación y la organización de los datos de ventas en una única plataforma.
 
 ### 2. Funcionalidades principales
 - **Crear y gestionar cotizaciones:**
@@ -152,7 +152,7 @@ Con estos pasos, puedes gestionar fácilmente una venta en el módulo de Ventas 
 ### Módulo de calendario-citas
 
 ### 1. Descripción del módulo
-El **Módulo de Calendario** en Odoo es una herramienta esencial para los restaurantes, ya que permite programar y organizar eventos, reservas y citas con proveedores o personal. Este módulo ayuda a optimizar la gestión del tiempo y asegura que el personal esté bien coordinado para atender a los clientes.
+El **Módulo de Calendario** es una herramienta esencial para los restaurantes, ya que permite programar y organizar eventos, reservas y citas con proveedores o personal. Este módulo ayuda a optimizar la gestión del tiempo y asegura que el personal esté bien coordinado para atender a los clientes.
 
 ### 2. Funcionalidades principales
 
