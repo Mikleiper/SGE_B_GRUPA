@@ -197,6 +197,28 @@ Este sería otro ejemplo de como se vería la factura.
 
 ### Módulo de gastos
 
+### 1. Descripción del módulo
+
+Gracias al módulo Gastos, podemos gestionar todos nlos gastos realizados en el restaurante como los de nuestros empleados , así como los gastos de los productos que haya en el restaurante a nuestros proveedores, así como las solicitudes de presupuesto.  
+Además, podemos visualizar los pedidos de compra e incluso las facturas de nuestros proveedores.
+
+### 2. Funcionalidades Principales
+
+### 3. Ejemplo de Uso
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Módulo de puntos de venta
 
 #### 1. Descripción del módulo
