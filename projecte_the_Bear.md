@@ -188,61 +188,86 @@ también podremos ver la solicitud de presupuesto, los pedidos de compra o inclu
 
 ### 3. Ejemplo de Uso
 
+### 1. Acceder al módulo de Compras
+
  Primero ve al módulo **Compras** y haz clic en instalar; también instala las actualizaciones.
+ 
  ![módulo Compras](<Compras0.png>)
+
+### 2.Vista principal del módulo
 
 **Esta es la pantalla principal en la cual podrás crear solicitudes de presupuesto, pedidos de compra y añadir proveedores.**  
    
  Primero crearemos los proveedores. Para ello, pulsaremos en **Pedidos** y **Proveedores**. 
+
 ![módulo Compras](<Compras1.png>)
 
 En la pantalla de proveedores podrás visualizar aquellos proveedores que tienes dados de alta.
 
 ![módulo Compras](<Compras2.png>)
+
+### 3. Registrar proveedores y compras 
  
 Una vez pulsado el botón **Crear**, te llevará a la siguiente ventana en la cual solo deberás rellenar los datos de tu proveedor y, al finalizar, pulsar en  
 **Guardar** o en **Descartar** si al final no deseas guardar sus datos.  
 **(Todas las opciones que permiten crear también permiten descartar dichos cambios por si al final no deseamos crear o guardar).**
+
 ![módulo Compras](<Compras3.PNG>)
 
 Para crear una solicitud de presupuesto, volveremos a la página principal y, esta vez, en vez de pulsar en proveedores, pulsaremos en **Solicitudes de**  
 **presupuesto** y en **Crear**. Nos saldrá una ventana como esta, la cual deberemos rellenar con los datos para crear dicho presupuesto.
+
 ![módulo Compras](<Compras4.png>)
 
 Aquí tienes un ejemplo de cómo se vería una solicitud de presupuesto una vez creada.
+
 ![módulo Compras](<Compras5.png>)
 
 Para crear o dar de alta un nuevo producto en la página principal, pulsaremos **Productos** y en **Crear**. Nos saldrá un recuadro como este,  
 donde introduciremos los datos de nuestro producto. (Aquí tienes un ejemplo de un producto llamado fuet; faltaría solo acabar de rellenar sus datos y clicar  
 en **Guardar** o en **Descartar** si al final no quieres dar de alta ese producto).
+
 ![módulo Compras](<Compras6.png>)
+
+
 
 Después de realizar dichas compras, es posible que desees visualizar un informe de ellas. Para ello, pulsa en **Informes**,  
 una opción más del menú de la página principal, y visualizarás una ventana como la siguiente en la que te mostrará los informes de dichas compras.  
 (En este caso, no hay porque no hay compras realizadas). 
+
 ![módulo Compras](<Compras7.png>)
 
+### 4. Configuración
+
 Para visualizar las Tarifas de proveedor hacemos clic en **Configuración** y en **Tarifas de proveedor**; y para crearlas, pulsamos en **Crear**.
+
 ![módulo Compras](<Compras8.png>)
 
 Registramos la tarifa de nuestro proveedor completando los datos en un recuadro como el siguiente.
+
 ![módulo Compras](<Compras9.png>)
 
 Los atributos y las categorías del producto se visualizan y se crean del mismo modo, cada uno es su pantalla correspondiente.
+
 ![módulo Compras](<Compras10.png>)
 
 Después de haber pulsado en **Crear** en la ventana anterior ahora faltaría registrar los datos de los atributos en este recuadro.  
 Después pulsaremos en **Guardar** para registrar los cambios o en **Descartar** si no deseáramos al final guardar dichos atributos.  
+
 ![módulo Compras](<Compras11.png>)
 
 Podrás visualizar las solicitudes de presupuesto o los pedidos de compra en la página principal.
+
 ![módulo Compras](<Compras12.png>)
 
 Clicamos en una solicitud de presupuesto y obtendremos una ventana como la siguiente.  
 
 En esta ventana si clicamos **Imprimir** podremos visualizar e imprimir los pedidos de compra, las solicitudes de presupuesto y si creamos la  
 factura también podremos visualizarla y imprimirla.    
+
 ![módulo Compras](<Compras13.png>)
+
+### 5. Informes
 
 Aquí tienes un ejemplo de cómo se vería un pedido de compra.
 
@@ -256,14 +281,64 @@ Este sería otro ejemplo de como se vería la factura.
 
 ### 1. Descripción del módulo
 
-Gracias al módulo Gastos, podemos gestionar todos nlos gastos realizados en el restaurante como los de nuestros empleados , así como los gastos de los productos que haya en el restaurante a nuestros proveedores, así como las solicitudes de presupuesto.  
-Además, podemos visualizar los pedidos de compra e incluso las facturas de nuestros proveedores.
+Gracias al módulo Gastos, podemos viualizar ,gestionar , crear y analizar todos los gastos realizados en el restaurante:  
+Cómo el de nuestros empleados , así como los gastos de los productos que hay dentro del restaurante.
 
 ### 2. Funcionalidades Principales
 
+- **Registrar y visualizar los gastos:** Añadir y visualizar los gastos que tiene el restaurante.  
+- **Registrar y visualizar informes de dichos gastos:** Generar informes con los gastos asociados del restaurante y poder visualizarlos.  
+- **Analizar los informes de los gastos:** Poder analizar un informe completo o individual con cada gasto. Quien lo genereo, en que producto y que costo.  
+- **Crear y visualizar productos de gasto nuevo:** Añadir el producto que supuso ese gasto y que costo. 
+
 ### 3. Ejemplo de Uso
 
+### 1. Acceder al módulo de gastos
 
+Primero ve al módulo **Gastos** y haz clic en instalar; también instala las actualizaciones.
+
+![módulo Gastos](<gastos1.png>)
+
+### 2.Vista principal del módulo
+
+**Esta es la pantalla principal** en la cual podrás crear y viualizar los gastos así cómo los informes.  
+
+Para ello en el menú clica en **Mis gastos** y en el menú desplegable elige la opción deseada  
+**Mis gastos a reportar**, **Todos mis gastos** o en **Mis informes**.  
+
+Para poder crear cualquier opcion de las mencionadas arriba pulsamos la opción deseada y en el botón de **Crear**.   
+
+![módulo Gastos](<gastos2.png>)
+
+### 3. Registrar todos los tipos gastos
+
+Una vez hacemos clic en **Crear** tendremos que registrar los datos del nuevo gasto a crear.  
+Después solo nos quedara pulsar en **Guardar** para guardar los datos de nuestro gasto o pulsar en **Descartar**.
+
+![módulo Gastos](<gastos3.png>)
+
+Aquí tienes un ejemplo de lo que seria un **reporte de gasto** ya con los datos del gasto completados.  
+  
+En esta ventana podrás **Crear informe** del reporte de gasto y **Adjuntar recibo** , **Crear** nuevos reportes de gasto  
+y **Editar** los reportes de gasto. Para ello pulsa la tecla correspondiente en cada caso.
+
+![módulo Gastos](<gastos4.png>)  
+
+Una vez hagas clic en **Crear informe** se mostrara un recuadro donde tendremos que registar los datos del informe.  
+Para guadar el informe pulsaremos en **Guardar** y para dejarlos cambios sin guardar haremos clic en **Desacatar**.   
+Sí decidimos guardar el informe tendriamos la posibilidad de enviarselo al gerente pulsando **Enviar al gerente**. 
+
+![módulo Gastos](<gastos5.png>)
+
+Este sería un claro ejemplo de **Todos mis gastos** una vez ya registrados los datos de ese gasto podrás  
+editarlo pulsando **Editar**, añadir nuevos gastos a todos mis gastos pulsando en **Crear** también padrás  
+**Adjuntar recibo** clicando en el o clicar en **Ver informe**. (que te muestro como se vería después de esta captura).    
+
+![módulo Gastos](<gastos6.png>)
+
+Aquí tienes una muestra de cómo se vería un informe ya con los gastos desglosados y el total.
+
+![módulo Gastos](<gastos7.png>) 
 
 
 
