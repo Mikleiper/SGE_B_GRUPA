@@ -14,13 +14,8 @@ Miguel Muñoz Baena | Puntos de venta y Planificación
 
 ### Módulo de empleados
 
-<<<<<<< HEAD
-## 1. Descripción del módulo
-El módulo **Empleados** permite gestionar y administar toda la información relevante del personal en una empresa. Eso incluye gestión de empleados, gestión de departamentos, recultamientos, informes..etc 
-=======
 ### 1. Descripción del módulo
 El módulo **Empleados** permite gestionar y administrar toda la información relevante del personal en una empresa. Eso incluye gestión de empleados, gestión de departamentos, reclutamientos, informes, etc. 
->>>>>>> 653455a7ae409d76a7dfe091d5ea476144d0da89
 
 ## 2. Funcionalidades Principales
 
@@ -285,10 +280,7 @@ Este sería otro ejemplo de como se vería la factura.
 ### Módulo de gastos
 
 ### 1. Descripción del módulo
-<<<<<<< HEAD
-=======
 El módulo **Punto de venta**  és uno de los más importantes para un negocio de restauración. Está diseñado para ofrecer una solución integral para los pedidos, ventas y transacciones que se dan en el día a día en el restaurante. Mejorando el servicio al cliente, optimizando el flujo de trabajo y ofreciendo un control completo de la operativa del restaurante. Además, podemos conectar una gran variedad de dispositivos (p ej: bascula, datafono, impresora térmica, etc.) a un PC o tablet que esté conectado a Odoo, pudiéndose personalizar y configurar para necesidades específicas. 
->>>>>>> 653455a7ae409d76a7dfe091d5ea476144d0da89
 
 Gracias al módulo Gastos, podemos viualizar ,gestionar , crear y analizar todos los gastos realizados en el restaurante:  
 Cómo el de nuestros empleados , así como los gastos de los productos que hay dentro del restaurante.
@@ -413,12 +405,8 @@ El módulo **Punto de venta**  está diseñado para para cubrir las necesidades 
 
 ![modulo pventas](<pventas1.jpg>)
 
-<<<<<<< HEAD
-Después de hacer clic en el módulo punto de venta, encontrarás un botón **"Abrir caja registradora"**. Haz click en este para empezar una nueva jornada de tabajo.
-=======
 ### 2. Iniciar caja del dia
    - Después de hacer clic en el módulo punto de venta, encontrarás un botón **"Abrir caja registradora"**. Haz click en este para empezar una nueva jornada de trabajo.
->>>>>>> 653455a7ae409d76a7dfe091d5ea476144d0da89
 
 ![modulo pventas](<pventas2.jpg>)
 
@@ -435,12 +423,8 @@ Ahora en la parte izquierda saldrá el pedido y cuanto suma. Podemos realizar di
 
 ![modulo pventas](<pventas5.jpg>)
 
-<<<<<<< HEAD
-Podemos personalizar (3) que cliente que es (p ej: para aplicar descuentos), especificar (4) una nota para cocina (p ej para que tarden en servir el plato o que no pongan determinados ingredientes), realizar el pedido (5) a cocina.
-=======
 ### 6. Personificar pedido y envío de pedido a cocina
    - Podemos personalizar (3) que cliente que es (p ej: para aplicar descuentos), especificar (4) una nota para cocina (p ej para que tarden en servir el plato o que no pongan determinados ingredientes), realizar el pedido (5) a cocina.
->>>>>>> 653455a7ae409d76a7dfe091d5ea476144d0da89
 
 ![modulo pventas](<pventas6.jpg>)
 
@@ -451,11 +435,7 @@ También podemos ir al menú de pago y especificar el modo de pago y aplicar des
 ### Módulo de planificación
 
 ### 1. Descripción del módulo
-<<<<<<< HEAD
-Este módulo es utilizada en la restaruacaión para la gestión  de horarios y turnos del personal, siendo una herramienta imprescindible para la organización del personal según la previson de demanda. Así, el módulo de **planifiación** te puede ayudar a anticipar necesidades según la afluencia de clientes y optimizar la disponibilidad de personal para asegurar un servicio eficiente.
-=======
 Este módulo se utiliza para la gestión de horarios y turnos del personal, siendo una herramienta imprescindible para la organización del personal según la previsión de demanda. Así, el módulo de **planificación** te puede ayudar a anticipar necesidades según la afluencia de clientes y optimizar la disponibilidad de personal para asegurar un servicio eficiente.
->>>>>>> 653455a7ae409d76a7dfe091d5ea476144d0da89
 
 ### 2. Funcionalidades Principales
 
@@ -466,9 +446,6 @@ Este módulo se utiliza para la gestión de horarios y turnos del personal, sien
 - **Planificación de eventos y reservas especiales**: organizar el personal necesario para por ejemplo cumpleaños, bautizos, etc.
 - **Informes y análisis de productividad**: puede generar informes del rendimiento del personal.
 
-<<<<<<< HEAD
-### 3. Ejemplo de Uso
-=======
 ### 3. Ejemplo de uso
 
 ### 1. Acceder al Módulo de planificación
@@ -511,4 +488,3 @@ Este módulo se utiliza para la gestión de horarios y turnos del personal, sien
 
    
 
->>>>>>> 653455a7ae409d76a7dfe091d5ea476144d0da89
