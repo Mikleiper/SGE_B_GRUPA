@@ -73,6 +73,59 @@ El módulo **Empleados** permite gestionar y administrar toda la información re
 
 ### Módulo de eventos
 
+### 1. Descripción del módulo
+El módulo **Eventos** de Odoo permite planificar, promocionar, y gestionar todos los aspectos de un evento en una sola plataforma. Se puede organizar y administrar eventos como conferencias, talleres, ferias comerciales, y, con personalización, eventos en restaurantes. 
+
+## 2. Funcionalidades Principales
+
+- **Creación y Configuración de Eventos**: Permite crear eventos con detalles como nombre, fecha, ubicación, capacidad, y tipo, organizándolos en categorías específicas.
+- **Gestión de Entradas (Tickets)**: Ofrece venta de entradas con diferentes tipos (general, VIP, grupales) y precios personalizados, incluyendo descuentos y promociones. 
+- **Registro y Seguimiento de Participantes**: Facilita el registro de asistentes, guardando sus datos y enviando recordatorios automáticos antes del evento. 
+- **Integración de Marketing**: Permite enviar campañas de email para promocionar el evento y comunicarse con los inscritos.
+- **Reportes y Análisis**: Proporciona informes sobre asistencia, ingresos por venta de entradas, y satisfacción del evento.
+- **Integración con Contabilidad**: Permite gestionar los pagos y facturación de entradas, conectándose directamente con el módulo de contabilidad de Odoo.
+- **Encuestas Post-Evento**: Recoge opiniones de los participantes para evaluar la satisfacción y obtener retroalimentación.
+
+## 3. Ejemplo de Uso
+
+### 1. Acceder al Módulo de Empleados
+   - Para acceder, abre el módulo de Eventos desde el panel principal de módulos.
+
+   ![Modulo Empleados](<Events01.png>)
+   ![Modulo Empleados](<Events02.png>)
+
+### 2. Creación de un Evento.
+   - Para crear un nuevo evento, haz clic en Nuevo y se mostrará un formulario que deberá completar con los datos necesarios.
+   - También puede agregar el currículum y las habilidades del empleado.
+
+   ![Modulo Empleados](<Events03.png>)
+
+### 3. Configuración de Entradas (Tickets)
+   - Para configuración de entradas, haz clic en *agregar una linia* y deberá completar con los datos del evento como fecha de inicio y finalización, descripción, nombre, ..etc.
+
+   ![Modulo Empleados](<Events04.png>)
+
+### 4. Informes 
+   - En la plantilla aparece datos sobre todos los eventos registrados, con opciones de filtración personalizados con graficas. 
+
+   ![Modulo Empleados](<Events09.png>)
+
+### 5. Personalización
+
+## Ajustes
+   - Se puede personalizar Horarios,opcion de transmición en vivo, sala de chat, entre otros.
+
+   ![Modulo Empleados](<Events06.png>)
+
+## Etapas, Plantilla y Ubicación
+
+   - Personalización de etapas: nuevo, reservado, cancelado, ..etc.
+   - Para creación de Plantilla, clica en Plantilla > nuevo. Rellenar con datos requeridos.
+   - Ubicación: físico o virtual donde se lleva a cabo el evento.Ej: Fisico: En Sala de Conferencia. Virtual: Zoom call.
+   ![Modulo Empleados](<Events05.png>)
+   ![Modulo Empleados](<Events07.png>)
+   ![Modulo Empleados](<Events08.png>)   
+
 ## Módulo de ventas
 
 ### 1. Descripción del módulo
